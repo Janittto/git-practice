@@ -1,0 +1,3 @@
+Name: Jeanne
+Age: 32
+Favorite color: green
